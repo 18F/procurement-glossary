@@ -13,7 +13,10 @@ abbreviations:
     longform: Contracting Officer
 
   - COR:
-    longform: Contracting Officer Representative
+    longform: Contracting Officer's Representative
+
+  - COTS:
+    longform: Commercially available off-the-shelf
 
   - FAR:
     longform: Federal Acquisition Regulations
@@ -35,6 +38,12 @@ abbreviations:
   - MAS:
     longform: Multiple Award Schedule
 
+  - OCI:
+    longform: Organizational Conflict of Interest
+
+  - QASP:
+    longform: Quality Assurance Surveillance Plan
+
   - RFI:
     longform: Request for Information
 
@@ -44,8 +53,14 @@ abbreviations:
   - RFQ:
     longform: Request for Quotation
 
+  - SAM:
+    longform: System for Award Management
+
   - SAT:
     longform: Simplified Acquisition Threshold 
+
+  - SF:
+    longform: Standard Form
 
   - SINs:
     longform: Special Item Numbers
