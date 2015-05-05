@@ -1,0 +1,51 @@
+abbreviations:
+  - BPA:
+    longform: Blanket Purchase Agreement
+    description: |
+      A blanket purchase agreement is often used when the government expects to buy the same thing multiple times, with varying amounts per buy. See FAR §§ [8.405-3](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html), [13.303](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html). Under a BPA, no money is actually _obligated_ to go to a contractor. It’s just an agreement to buy if and when the need arises.
+      For example, let’s say the government wanted to buy coffee beans. At any given time, the government might need one pound of beans, or hundreds of pounds of beans, depending on demand. It also might want to have different flavors. Rather than try to guess all of the needs at once, the government could create a BPA with one or more contractors that would allow the government to buy coffee beans whenever needed, at negotiated prices prices and with clear terms and conditions of delivery.
+      Like coffee, BPAs come in different flavors. [_Schedule BPAs_](http://www.gsa.gov/portal/content/199353) are BPAs with contractors on the _GSA Federal Supply Schedule_. For large purchases, it is more likely than not that the BPA will be a schedule BPA. A _single-award BPA_ is an agreement with a single contractor to fill the government’s needs. A _multiple-award BPA_ is a collection of agreements with multiple contractors who can fill the government’s needs.
+
+  - CLINs:
+    longform: Contract Line Item Number
+
+  - CO:
+    longform: Contracting Officer
+
+  - COR:
+    longform: Contracting Officer Representative
+
+  - FAR:
+    longform: Federal Acquisition Regulations
+    description: |
+      The FAR is “primary regulation for use by all Federal Executive agencies in their acquisition of supplies and services with appropriated funds.” In other words, it’s kind of a big deal. It’s without question the most important document in federal procurement.
+
+  - FFP:
+    longform: Firm Fixed Price
+
+  - GSAM:
+    longform: General Services Administration Acquisition Manual
+
+  - GWAC:
+    longform: Governmentwide Acquisition Contracts
+
+  - IDIQ: 
+    longform: Indefinite Delivery/Indefinite Quantity
+
+  - MAS:
+    longform: Multiple Award Schedule
+
+  - RFI:
+    longform: Request for Information
+
+  - RFP:
+    longform: Request for Proposal
+
+  - RFQ:
+    longform: Request for Quotation
+
+  - SAT:
+    longform: Simplified Acquisition Threshold 
+
+  - SINs:
+    longform: Special Item Numbers
