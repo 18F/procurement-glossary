@@ -9,7 +9,7 @@ abbreviations:
   - CICA:
     longform: Competition in Contracting Act
 
-  - CLINs:
+  - CLIN:
     longform: Contract Line Item Number
     description: |
       Government solicitations ask contractors to name their price for their services or products. Typically, a solicitation will require a contractor to identify the cost associated with specified tasks, milestones, or deliverables. These "line item" costs are called Contract Line Item Numbers.
@@ -52,6 +52,9 @@ abbreviations:
   - OCI:
     longform: Organizational Conflict of Interest
 
+  - PWS:
+    longform: Performance Work Statement
+
   - QASP:
     longform: Quality Assurance Surveillance Plan
 
@@ -77,3 +80,9 @@ abbreviations:
     longform: Special Item Number
     description: |
       A SIN is " group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function." FAR § [8.401](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html). It is used by GSA to help categories the services and products offered by contractors on GSA schedules. They are not the *same* as NAICS codes, but they serve similar functions.
+
+  - SOO:
+    longform: Statement of Objectives
+
+  - SOW:
+    longform: Statement of Work
