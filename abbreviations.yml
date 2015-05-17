@@ -47,13 +47,16 @@ abbreviations:
     longform: Multiple Award Schedule
 
   - NAICS:
-    long: North American Industry Classification System
+    longform: North American Industry Classification System
 
   - OCI:
     longform: Organizational Conflict of Interest
 
   - PWS:
     longform: Performance Work Statement
+    description: |
+      A Performance Work Statement is used in "performance-based contract" solicitations to describe, at a high level, the desired deliverables for a contract and a method of evaluating contractor performance. [FAR § 37.602](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html) The FAR defines a PWS as a "statement of work for performance-based acquisitions that describes the required results in clear, specific and objective terms with measurable outcomes." [FAR § 2.101](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%202_1.html)
+      Like a SOO, a PWS typically does not specify the specific methodology of performance. But unlike a SOO, a PWS should specify the applicable contractor performance standards that will be used in the procurement. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
 
   - QASP:
     longform: Quality Assurance Surveillance Plan
@@ -79,10 +82,14 @@ abbreviations:
   - SIN:
     longform: Special Item Number
     description: |
-      A SIN is " group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function." FAR § [8.401](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html). It is used by GSA to help categories the services and products offered by contractors on GSA schedules. They are not the *same* as NAICS codes, but they serve similar functions.
+      A SIN is a "group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function." FAR § [8.401](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html). It is used by GSA to help categories the services and products offered by contractors on GSA schedules. They are not the *same* as NAICS codes, but they serve similar functions.
 
   - SOO:
     longform: Statement of Objectives
+    description: |
+      A Statement of Objectives is included in a solicitation to describe, at a high level, the desired outcomes from a contract. A SOO typically should not specify the specific methodology of performance, but instead should specify the desired *outcomes*, and allow potential contractors to propose solutions to achieve those outcomes. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
 
   - SOW:
     longform: Statement of Work
+    description: |
+      A Statement of Work is included in a solicitation to describe, at a granular level, the specific requirements for a contract. A SOW, unlike a PWS or SOO, should specify the precise deliverables, methods to be used, and timelines for performance. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
