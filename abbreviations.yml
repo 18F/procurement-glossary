@@ -1,4 +1,10 @@
 abbreviations:
+
+  ATO:
+    longform: Authority to Operate
+    description: |
+      A sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a 3-6 month process, but 18F has been working to fix this.
+
   BPA:
     longform: Blanket Purchase Agreement
     description: |
