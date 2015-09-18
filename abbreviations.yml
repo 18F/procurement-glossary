@@ -1,132 +1,138 @@
 abbreviations:
-  - BPA:
+
+  ATO:
+    longform: Authority to Operate
+    description: |
+      A sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a 3-6 month process, but 18F has been working to fix this.
+
+  BPA:
     longform: Blanket Purchase Agreement
     description: |
       A blanket purchase agreement is often used when the government expects to buy the same thing multiple times, with varying amounts per buy. See FAR §§ [8.405-3](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html), [13.303](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html). Under a BPA, no money is actually _obligated_ to go to a contractor. It’s just an agreement to buy if and when the need arises.
       For example, let’s say the government wanted to buy coffee beans. At any given time, the government might need one pound of beans, or hundreds of pounds of beans, depending on demand. It also might want to have different flavors. Rather than try to guess all of the needs at once, the government could create a BPA with one or more contractors that would allow the government to buy coffee beans whenever needed, at negotiated prices prices and with clear terms and conditions of delivery.
       Like coffee, BPAs come in different flavors. [_Schedule BPAs_](http://www.gsa.gov/portal/content/199353) are BPAs with contractors on the _GSA Federal Supply Schedule_. For large purchases, it is more likely than not that the BPA will be a schedule BPA. A _single-award BPA_ is an agreement with a single contractor to fill the government’s needs. A _multiple-award BPA_ is a collection of agreements with multiple contractors who can fill the government’s needs.
 
-  - CICA:
+  CICA:
     longform: Competition in Contracting Act
 
-  - CLIN:
+  CLIN:
     longform: Contract Line Item Number
     description: |
       Government solicitations ask contractors to name their price for their services or products. Typically, a solicitation will require a contractor to identify the cost associated with specified tasks, milestones, or deliverables. These "line item" costs are called Contract Line Item Numbers.
 
-  - CO:
+  CO:
     longform: Contracting Officer
 
-  - COR:
+  COR:
     longform: Contracting Officer's Representative
 
-  - COTS:
+  COTS:
     longform: Commercially available off-the-shelf
 
-  - FAR:
+  FAR:
     longform: Federal Acquisition Regulations
     description: |
       The FAR is “primary regulation for use by all Federal Executive agencies in their acquisition of supplies and services with appropriated funds.” In other words, it’s kind of a big deal. It’s without question the most important document in federal procurement.
 
-  - FFP:
+  FFP:
     longform: Firm Fixed Price
 
-  - GSAM:
+  GSAM:
     longform: General Services Administration Acquisition Manual
 
-  - GWAC:
+  GWAC:
     longform: Governmentwide Acquisition Contracts
 
-  - IAE: 
+  IAE: 
     longform: Integrated Award Environment
 
-  - IDIQ: 
+  IDIQ: 
     longform: Indefinite Delivery/Indefinite Quantity
 
-  - MAS:
+  MAS:
     longform: Multiple Award Schedule
 
-  - NAICS:
+  NAICS:
     longform: North American Industry Classification System
 
-  - OCI:
+  OCI:
     longform: Organizational Conflict of Interest
 
-  - PWS:
+  PWS:
     longform: Performance Work Statement
     description: |
       A Performance Work Statement is used in "performance-based contract" solicitations to describe, at a high level, the desired deliverables for a contract and a method of evaluating contractor performance. [FAR § 37.602](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2013_3.html) The FAR defines a PWS as a "statement of work for performance-based acquisitions that describes the required results in clear, specific and objective terms with measurable outcomes." [FAR § 2.101](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%202_1.html)
       Like a SOO, a PWS typically does not specify the specific methodology of performance. But unlike a SOO, a PWS should specify the applicable contractor performance standards that will be used in the procurement. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
 
-  - QASP:
+  QASP:
     longform: Quality Assurance Surveillance Plan
 
-  - RFI:
+  RFI:
     longform: Request for Information
 
-  - RFP:
+  RFP:
     longform: Request for Proposal
 
-  - RFQ:
+  RFQ:
     longform: Request for Quotation
     description: |
       In general, when the government wants to purchase goods or services, and when the government has a fairly complete understanding of what goods or services are needed, the government will issue a Request for Proposal ("RFQ"). An RFQ does not establish a contract; instead, it is a solicitation for vendors to make offers that will be evaluated by the government according to specified evaluation criteria.
 
-  - SAM:
+  SAM:
     longform: System for Award Management
 
-  - SAT:
+  SAT:
     longform: Simplified Acquisition Threshold 
 
-  - SF:
+  SF:
     longform: Standard Form
 
-  - SIN:
+  SIN:
     longform: Special Item Number
     description: |
       A SIN is a "group of generically similar (but not identical) supplies or services that are intended to serve the same general purpose or function." FAR § [8.401](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%208_4.html). It is used by GSA to help categories the services and products offered by contractors on GSA schedules. They are not the *same* as NAICS codes, but they serve similar functions.
 
-  - SOO:
+  SOO:
     longform: Statement of Objectives
     description: |
       A Statement of Objectives is included in a solicitation to describe, at a high level, the desired outcomes from a contract. A SOO typically should not specify the specific methodology of performance, but instead should specify the desired *outcomes*, and allow potential contractors to propose solutions to achieve those outcomes. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
 
-  - SOW:
+  SOW:
     longform: Statement of Work
     description: |
       A Statement of Work is included in a solicitation to describe, at a granular level, the specific requirements for a contract. A SOW, unlike a PWS or SOO, should specify the precise deliverables, methods to be used, and timelines for performance. [Click here for more information](https://dap.dau.mil/acquipedia/Pages/ArticleDetails.aspx?aid=488854b0-d8ee-4e32-aa3e-301d2ac8ffca).
 
-  - 2FA:
+  2FA:
     longform:
     description: |
      [Two-factor authentication](../../private/qa/two-factor/): entering a second, temporary code in addition to a username and password. 2FA provides added security when logging in to programs, like GitHub, remotely.
 
-  - 508:
+  508:
     longform:
     description: |
        The federal regulation that requires government IT projects be accessible to people with disabilities.
 
-  - API:
+  API:
     longform:
     description: |
        Application programming interface. Think of them as a way for computers to interact, either internally or between one another. If you wanted to make a website that shows the current temperature wherever you are, your code talks to one API to get your location, then another to find out the weather in that area.
 
-  - ATO:
+  ATO:
     longform:
     description: |
        Authority to Operate. It's a sign-off from an authorized agency official for a website to be allowed to engage with citizens, including security and some other stuff. Historically this is a three to six month process, but 18F has been working to fix this. Noah Kunin can sometimes help speed the process.
 
-  - AWS:
+  AWS:
     longform:
     description: |
        Amazon Web Services. When we make websites, this is where they all live. Read easy-to-understand descriptions of the different pieces [here](https://www.expeditedssl.com/aws-in-plain-english).
 
-  - AWS:
+  AWS:
     longform:
     description: |
        Alternative Work Schedule. Working eight, 10-hour days or working nine, nine-hour days in a pay period.
 
-  - Back end developer:
+  Back end developer:
     longform:
     description: |
        The people who write the code for the parts of a web site you don't see, working in programming languages like Ruby, Python, or NodeJS. They work on pieces of the application that, for example::
@@ -134,22 +140,22 @@ abbreviations:
        * Gather all of the information for search to work:
        * Trigger emails being sent
 
-  - CHRIS:
+  CHRIS:
     longform:
     description: |
       GSA’s [Comprehensive Human Resources Integrated System](http://www.gsa.gov/portal/content/105088) is an e-Tool that enables employees to access their personnel files online.
 
-  - Dev:
+  Dev:
     longform:
     description: |
        someone who does software development. A "coder."
 
-  - Dogfooding:
+  Dogfooding:
     longform:
     description: |
        To "[eat your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)." For our purposes, this means using the things we build.
 
-  - ENT:
+  ENT:
     longform:
     description: |
        Your username and password (which are called "credentials") for doing things like::
@@ -158,107 +164,107 @@ abbreviations:
        * BookIT:
        * Logging on to `gsa-wireless`
 
-  - FISMA:
+  FISMA:
     longform: Federal Information Security Management Act 
     description: |
       FISMA is a federal law that "requires agencies to maintain an information security program commensurate with their risk profile." <https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/final_fy14_fisma_report_02_27_2015.pdf>
 
-  - FITARA:
+  FITARA:
     longform: Federal Information Technology Acquisition Reform Act 
     description: |
       FITARA is a federal law that, among other things, strengthened the role of federal CIOs.
 
-  - Front end developer:
+  Front end developer:
     longform:
     description: |
        The people who work on the parts of the site that you see, making the page look the way it's supposed to, have buttons in the right places, etc. They write HTML, CSS, and usually JavaScript (though it can be anywhere from "I've copied-and-pasted a couple of things" to expert).
 
-  - Full stack developer:
+  Full stack developer:
     longform:
     description: |
        Someone who does both front end and back end development.
 
-  - GCIMS:
+  GCIMS:
     longform:
     description: |
       [GSA Credential and Identity Management System](http://gcims.gsa.gov), a GSA internal web database that provides authoritative information on GSA personnel, work locations and credentials. GCIMS also stores your contact information, so you may need to update that from time to time. [Instructions for adding a phone number are here](../../private/qa/two-factor/).
 
-  - GDS:
+  GDS:
     longform:
     description: |
        the [UK's Government Digital Services](https://gds.blog.gov.uk/) are government pioneers and fellow technologists across the pond.
 
-  - GitHub:
+  GitHub:
     longform:
     description: |
        A website to help people collaborate to build software. It's a tool that can be used for finding projects, proposing fixes, having discussions, and more.
 
-  - Grok:
+  Grok:
     longform:
     description: |
        To fully [understand](http://www.urbandictionary.com/define.php?term=grok) something.
 
-  - IAA:
+  IAA:
     longform:
     description: |
        Interagency agreement. A contract between federal agencies.
 
-  - MOA:
+  MOA:
     longform:
     description: |
        The [Memorandum of agreement](https://docs.google.com/a/gsa.gov/file/d/0B84F26FpUP0lQU5aWkplWDVtS2M/edit), created between GSA and FAS establishes us through 2018.
 
-  - MOU:
+  MOU:
     longform:
     description: |
        Memorandum of understanding.
 
-  - OLU:
+  OLU:
     longform:
     description: |
        On-Line University, where our team's mandatory training classes are hosted.
 
-  - OTP:
+  OTP:
     longform:
     description: |
        One-time password. In Atlanta, this refers to "outside the perimeter," as opposed to ITP (inside the perimeter).
 
-  - PIF:
+  PIF:
     longform:
     description: |
        Presidential Innovation Fellows serve on highly competitive, one-year appointments, which fall within 18F.
 
-  - PII:
+  PII:
     longform:
     description: |
        personally identifiable information.
 
-  - PRA:
+  PRA:
     longform:
     description: |
        the Paperwork Reduction Act, enacted in 1980 aims to reduce the burden of federally imposed paperwork for U.S. businessess and the public.
 
-  - SLT:
+  SLT:
     longform:
     description: |
        Senior Leadership Team. This is Hillary and Aaron.
 
-  - The Hub:
+  The Hub:
     longform:
     description: |
        You've found it! Basically our (partially publically visible) site, used to share documentation and guides among the team.
 
-  - USDS:
+  USDS:
     longform:
     description: |
        The [United States Digital Service](http://www.whitehouse.gov/photos-and-video/video/2014/08/20/introducing-us-digital-service) reports to the White House.
 
-  - UX:
+  UX:
     longform:
     description: |
        User experience. Basically, this means building things with a focus on who the user is and what they want to do, rather than just what it should look like.
 
-  - VPN:
+  VPN:
     longform:
     description: |
        Virtual Private Network is a way to pretend that you're on the GSA network when you're not in a GSA building, which also makes your Internet connection more secure. It's required for access to some GSA sites. See [Accessing GSA remotely](../../private/qa/access-gsa-remote/).
