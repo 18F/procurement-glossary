@@ -1437,6 +1437,12 @@ abbreviations:
       Used to ensure that the final agreed-to-price is fair and reasonable.
     cross_references:
 
+  Protest:
+    longform:
+    description: |
+      A “protest” is a written objection by an interested party. It may be filed in response to one of the following: 1) solicitation; 2) cancellation of a solicitation; 3) award or proposed award of the contract; or (4) termination or cancellation of an award. An “interested party” is an actual or prospective offeror whose direct economic interest would be affected by the award of a contract, failure to award a contract, or some other contract action.
+    cross_references:
+
   Purchase order:
     longform:
     description: |
