@@ -1,6 +1,6 @@
 # The Procurement Glossary
 
-The procurement glossary is a set of definitions for common abbreviations, and jargon, found in the procurement lifecycle.
+The procurement glossary is a set of definitions for common abbreviations and jargon found in the procurement lifecycle.
 Definitions may not be expansive but should give users enough context to conduct further research and discovery.
 
 Although it typically focuses on procurement terms, some technical material may be included.
