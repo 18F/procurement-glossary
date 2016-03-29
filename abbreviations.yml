@@ -358,12 +358,6 @@ abbreviations:
       The contractor and Government share the costs.
     cross_references:
 
-  COR:
-    longform: 'Contracting Officer''s Technical Representative'
-    description: |
-      An individual designated and authorized in writing by the contracting officer to perform specific  technical or administrative functions.
-    cross_references:
-
   COTS:
     longform: Commercially available off-the-shelf
     description: |
