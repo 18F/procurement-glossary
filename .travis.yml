@@ -3,5 +3,4 @@ node_js:
   - "5.11"
 install:
   - npm install js-yaml
-script:
-  - node -e "require('js-yaml').safeLoad(require('fs').readFileSync('abbreviations.yml', { encoding: 'utf8' }))"
+script: sh test.sh
