@@ -24,6 +24,12 @@ abbreviations:
       The acquiring by contract with appropriated funds of supplies or services (including construction)  by and for the use of the Federal Government through purchase or lease, whether the supplies or  services are already in existence or must be created, developed, demonstrated, and evaluated.  Acquisition begins at the point when agency needs are established and includes the description  of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts,  contract financing, contract performance, contract administration, and those technical and  management functions directly related to the process of fulfilling agency needs by contract.
     cross_references:
 
+  Acquisition plan:
+    longform:
+    description: |
+      An Acquisition Plan is a plan that documents all cost, schedule, technical, business, management, and other considerations that will govern an acquisition program and is derived from the Acquisition Strategy. It summarizes the acquisition planning discussions and identifies milestones in the acquisition process.
+    cross_references:
+
   Acquisition planning:
     longform:
     description: |
@@ -226,6 +232,12 @@ abbreviations:
     longform: Contract clause
     description: |
       A term or condition used in contracts or in both solicitations and contracts, and applying after  contract award or both before and after award.
+    cross_references:
+
+  CLC:
+    longform:
+    description: |
+      Continuous Learning Credits. All FAC-C warranted COs require 80 continuous learning credit every 2 years to maintain their certifications.
     cross_references:
 
   CLIN:
@@ -1060,6 +1072,12 @@ abbreviations:
     description: |
       Contracts awarded by GSA or the Department of Veterans Affairs (VA) for similar or comparable  supplies, or services, established with more than one supplier, at varying prices.
     cross_references:
+
+  Maximum order:
+    longform:
+    description: |
+      Schedules contractors are obligated to accept any order from an executive agency that is below the Maximum Order threshold. Outside of the executive branch, a contractor is encouraged though not required to accept an order under this threshold. For orders over the Maximum Order threshold, agencies will generally expect a price break due to the large volume of the sale. The Maximum Order threshold is determined on a schedule by schedule or sometimes on a SIN by SIN basis.
+    cross_references:      
 
   MD:
     longform: Management Directive
